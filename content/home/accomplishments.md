@@ -23,29 +23,37 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/2D77H4NQ25KP
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2017-08-23'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Building Data Visualization Tools by Johns Hopkins University on Coursera
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/XB8H2L2VPGCX
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2017-05-29'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Building R Packages by Johns Hopkins University on Coursera
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/QKCGFV4ST65D
+    date_end: ''
+    date_start: '2017-04-18'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Advanced R Programming by Johns Hopkins University on Coursera
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/VRDGATYYM6GG
+    date_end: ''
+    date_start: '2017-03-20'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: The R Programming Environment by Johns Hopkins University on Coursera
     url: ''
 
 design:
