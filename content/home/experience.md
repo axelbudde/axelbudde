@@ -1,50 +1,71 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
+title: "Experience"
+headless: yes
 weight: 40
-
-title: Experience
-subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
+widget: experience
+subtitle: null
 date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+- title: Head of Staff Unit
+  company: University Hospital Bonn (UKB)
+  company_url: ''
+  company_logo: "ukb"
+  location: Bonn, Germany
+  date_start: "2020-10-01"
+  date_end: ''
+  description: ""
+- title: Research Associate
+  company: University Hospital Bonn (UKB)
+  company_url: ''
+  company_logo: "ukb"
+  location: Bonn, Germany
+  date_start: "2018-06-01"
+  date_end: "2020-09-30"
+  description: ""
+- title: Scientific Officer
+  company: Federal Centre for Health Education (BZgA)
+  company_url: ''
+  company_logo: "bzga"
+  location: Cologne, Germany
+  date_start: "2013-03-01"
+  date_end: "2016-12-31"
+  description: ""
+- title: Research Associate
+  company: Catholic University of Applied Sciences (KatHO NRW)
+  company_url: ''
+  company_logo: "katho-nrw"
+  location: Cologne, Germany
+  date_start: "2007-08-01"
+  date_end: "2011-02-28"
+  description: ""
+- title: Regional Sales Engineer
+  company: Noldus Information Technology bv / GmbH
+  company_url: ''
+  company_logo: "noldus"
+  location: Wageningen, The Netherlands / Berlin, Germany
+  date_start: "2005-11-01"
+  date_end: "2007-07-31"
+  description: ""
+- title: Customer Service Representative
+  company: Citicorp S.A. 
+  company_url: ''
+  company_logo: "citi"
+  location: Barcelona, Spain
+  date_start: "2005-03-01"
+  date_end: "2005-07-31"
+  description: ""
+- title: Research Intern
+  company: United Nations Office on Drugs and Crime (UNODC) 
+  company_url: ''
+  company_logo: "un"
+  location: Bangkok, Thailand
+  date_start: "2004-08-01"
+  date_end: "2004-12-31"
+  description: ""
+    
 design:
   columns: '2'
 ---
+
+
+
