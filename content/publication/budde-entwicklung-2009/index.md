@@ -1,26 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Public awareness, school-based and early interventions to reduce alcohol related
-  harm
+title: Entwicklung eines Verfahrens zur Messung impliziter Kognitionen bei Kindern
+  aus alkoholbelasteten Familien
 subtitle: ''
 summary: ''
 authors:
-- Sandra Radoš Krnel
-- Axel Budde
-- Wim van Dalen
-- Djoeke van Dale
-- Kirsten Vegt
-- Lidia Segura
-- Jorge Palacio-Vieira
-- Paula Frango
-- Janja Mišič
-- Teja Rozman
-- Aleš Lamut
-tags: []
+- A. Budde
+- S. W. Belles
+- D. Moesgen
+- M. Klein
+tags:
+- 2. Deutscher Suchtkongress
 categories: []
-date: '2016-01-01'
-lastmod: 2022-08-10T12:22:31+02:00
+date: '2009-09-01'
+lastmod: 2022-08-10T14:18:07+02:00
 featured: false
 draft: false
 
@@ -38,12 +32,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-10T12:18:07.279543Z'
+publishDate: '2022-08-10T12:18:07.402351Z'
 publication_types:
-- '5'
-abstract: ''
-publication: '*National Institute of Public Health*'
+- '1'
+abstract: Thieme E-Books & E-Journals
+publication: '*Suchttherapie*'
+doi: 10.1055/s-0029-1240455
 links:
 - name: URL
-  url: https://www.nijz.si/en/publikacije/public-awareness-school-based-and-early-interventions-to-reduce-alcohol-related-harm
+  url: http://www.thieme-connect.de/DOI/DOI?10.1055/s-0029-1240455
 ---

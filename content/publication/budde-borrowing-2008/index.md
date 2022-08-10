@@ -1,26 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Public awareness, school-based and early interventions to reduce alcohol related
-  harm
+title: 'Borrowing from behavioural science: a novel method for the analysis of indirect
+  temporal connectivity at airport hubs'
 subtitle: ''
 summary: ''
 authors:
-- Sandra Radoš Krnel
-- Axel Budde
-- Wim van Dalen
-- Djoeke van Dale
-- Kirsten Vegt
-- Lidia Segura
-- Jorge Palacio-Vieira
-- Paula Frango
-- Janja Mišič
-- Teja Rozman
-- Aleš Lamut
+- A. Budde
+- G. Burghouwt
+- J. de Wit
 tags: []
 categories: []
-date: '2016-01-01'
-lastmod: 2022-08-10T12:22:31+02:00
+date: '2008-01-01'
+lastmod: 2022-08-10T14:18:07+02:00
 featured: false
 draft: false
 
@@ -38,12 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-10T12:18:07.279543Z'
+publishDate: '2022-08-10T12:18:07.663001Z'
 publication_types:
-- '5'
+- '1'
 abstract: ''
-publication: '*National Institute of Public Health*'
+publication: ''
 links:
 - name: URL
-  url: https://www.nijz.si/en/publikacije/public-awareness-school-based-and-early-interventions-to-reduce-alcohol-related-harm
+  url: https://dare.uva.nl/search?identifier=ae79c6d3-986e-4949-826e-e8a873c5d399
 ---

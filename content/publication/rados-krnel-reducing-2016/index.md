@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-10T10:22:30.844459Z'
+publishDate: '2022-08-10T12:18:07.163978Z'
 publication_types:
-- '1'
+- '2'
 abstract: 'Joint Action on Reducing Alcohol Related Harm is an initiative under the
   EU health programme to take forward the work in line with the first EU Strategy
   on alcohol related harm. The work is carried out through a cooperation by expert
