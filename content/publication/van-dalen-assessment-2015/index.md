@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2022-08-10T13:46:01.738445Z'
 publication_types:
-- '2'
+- '1'
 abstract: To reduce alcohol related harm a wide range of interventions have been developed
   and brought together including in EU-funded projects. Nevertheless public health
   policy planners lack easy access to well described interventions that are replicable

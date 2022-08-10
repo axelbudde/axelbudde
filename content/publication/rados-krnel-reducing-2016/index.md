@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2022-08-10T13:46:01.854183Z'
 publication_types:
-- '2'
+- '1'
 abstract: 'Joint Action on Reducing Alcohol Related Harm is an initiative under the
   EU health programme to take forward the work in line with the first EU Strategy
   on alcohol related harm. The work is carried out through a cooperation by expert
