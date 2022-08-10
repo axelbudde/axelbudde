@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-10T12:18:07.043020Z'
+publishDate: '2022-08-10T13:03:35.149144Z'
 publication_types:
-- '2'
+- '1'
 abstract: To reduce alcohol related harm a wide range of interventions have been developed
   and brought together including in EU-funded projects. Nevertheless public health
   policy planners lack easy access to well described interventions that are replicable

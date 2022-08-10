@@ -30,11 +30,17 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-10T12:18:07.663001Z'
+publishDate: '2022-08-10T13:03:35.746929Z'
 publication_types:
 - '1'
-abstract: ''
-publication: ''
+abstract: We introduce a novel empirical method that quantifies indirect temporal
+  connectivity at airport hubs and overcomes certain limitations of existing methodology.
+  Employing a pattern recognition algorithm, originally developed for behavioural
+  research, we analysed schedules at Frankfurt and London Stansted airports in 2007.
+  By employing our model in a comparative analysis, we demonstrate schedule coordination
+  effects.
+publication: '*Proceedings of the 12th Air Transport Research Society (ATRS) World
+  Conference*'
 links:
 - name: URL
   url: https://dare.uva.nl/search?identifier=ae79c6d3-986e-4949-826e-e8a873c5d399
