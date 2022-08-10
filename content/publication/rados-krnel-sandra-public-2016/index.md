@@ -42,8 +42,7 @@ publishDate: '2022-08-10T10:22:30.968281Z'
 publication_types:
 - '5'
 abstract: ''
-publication: '*National Institute of Public Health, Trubarjeva 2, 1000 Ljubljana,
-  Slovenia*'
+publication: '*National Institute of Public Health, Slovenia*'
 links:
 - name: URL
   url: https://www.nijz.si/en/publikacije/public-awareness-school-based-and-early-interventions-to-reduce-alcohol-related-harm
