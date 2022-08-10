@@ -16,7 +16,7 @@ authors:
 - Paula Frango
 - Janja Mišič
 - Teja Rozman
-- ' Lamut'
+- Aleš Lamut
 tags: []
 categories: []
 date: '2016-01-01'
