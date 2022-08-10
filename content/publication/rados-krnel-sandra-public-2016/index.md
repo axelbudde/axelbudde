@@ -1,19 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The effects of parental problem drinking on children: a review of current
-  research findings and their relevance for practice'
+title: Public awareness, school-based and early interventions to reduce alcohol related
+  harm
 subtitle: ''
 summary: ''
 authors:
+- Sandra Radoš Krnel
 - Axel Budde
-- Michael Klein
-- Stefan Belles
-- Diana Moesgen
+- Wim van Dalen
+- Djoeke van Dale
+- Kirsten Vegt
+- Lidia Segura
+- Jorge Palacio-Vieira
+- Paula Frango
+- Janja Mišič
+- Teja Rozman
+- ' Lamut'
 tags: []
 categories: []
-date: '2010-01-01'
-lastmod: 2022-08-10T11:18:18+02:00
+date: '2016-01-01'
+lastmod: 2022-08-10T12:22:31+02:00
 featured: false
 draft: false
 
@@ -31,15 +38,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-10T10:22:30.613211Z'
+publishDate: '2022-08-10T10:22:30.968281Z'
 publication_types:
-- '2'
-abstract: 'This paper is based on a presentation given at the conference “A child
-  in an alcohol affected family: how to help?” on 23 September at Reval Hotel Neris
-  in Kaunas, Lithuania.'
-publication: '*Socialinis darbas. Patirtis ir metodai / Social Work. Experience and
-  Methods*'
+- '5'
+abstract: ''
+publication: '*National Institute of Public Health, Trubarjeva 2, 1000 Ljubljana,
+  Slovenia*'
 links:
 - name: URL
-  url: https://eltalpykla.vdu.lt/1/30933
+  url: https://www.nijz.si/en/publikacije/public-awareness-school-based-and-early-interventions-to-reduce-alcohol-related-harm
 ---
