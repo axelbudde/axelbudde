@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Assessment criteria for evidence based interventions aimed to reduce alcohol
-  related harm: Sandra Radoš Krnel'
+  related harm:'
 subtitle: ''
 summary: ''
 authors:
