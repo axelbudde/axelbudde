@@ -26,7 +26,6 @@ authors:
 - Gabriele Calaminus
 - Matthias Schmid
 tags:
-- Item Response Theory
 - Childhood cancer
 - Children's Oncology Group
 - COG
@@ -41,6 +40,7 @@ tags:
 - FACT-G
 - Functional Assessment of Cancer Therapy - General
 - IRT
+- Item Response Theory
 - Limit of Agreement
 - LOA
 - Paediatric Quality of Life Inventory
@@ -80,10 +80,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-10T13:03:34.765555Z'
+publishDate: '2022-08-10T13:12:43.275987Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: "Purpose The available questionnaires for quality-of-life (QoL) assessments\
+  \ are age-group specific, limiting comparability and impeding longitudinal analyses.\
+  \ The comparability of measurements, however, is a necessary condition for gaining\
+  \ scientific evidence. To overcome this problem, we assessed the viability of harmonising\
+  \ data from paediatric and adult patient-reported outcome (PRO) measures. Method\
+  \ To this end, we linked physical functioning scores from the Paediatric Quality\
+  \ of Life Inventory (PedsQL) and the Paediatric Quality of Life Questionnaire (PEDQOL)\
+  \ to the European Organisation for Research and Treatment of Cancer Core Questionnaire\
+  \ (EORTC QLQ-C30) for adults. Samples from the EURAMOS-1 QoL sub-study of 75 (PedsQL)\
+  \ and 112 (PEDQOL) adolescent osteosarcoma patients were concurrently administered\
+  \ both paediatric and adult questionnaires on 98 (PedsQL) and 156 (PEDQOL) occasions.\
+  \ We identified corresponding scores using the single-group equipercentile linking\
+  \ method. Results Linked physical functioning scores showed sufficient concordance\
+  \ to the EORTC QLQ-C30: Lin's ρ = 0.74 (PedsQL) and Lin's ρ = 0.64 (PEDQOL). Conclusion\
+  \ Score linking provides clinicians and researchers with a common metric for assessing\
+  \ QoL with PRO measures across the entire lifespan of patients."
 publication: '*European Journal of Cancer*'
 doi: 10.1016/j.ejca.2022.03.018
 links:

@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-10T13:03:34.915847Z'
+publishDate: '2022-08-10T13:12:43.407908Z'
 publication_types:
 - '2'
 abstract: The present study aimed to investigate the influence of parental problem

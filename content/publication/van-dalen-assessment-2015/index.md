@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-10T13:03:35.149144Z'
+publishDate: '2022-08-10T13:12:43.639662Z'
 publication_types:
 - '1'
 abstract: To reduce alcohol related harm a wide range of interventions have been developed
