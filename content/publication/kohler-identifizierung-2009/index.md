@@ -33,10 +33,37 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-10T13:46:02.219522Z'
+publishDate: '2022-08-10T13:59:51.539369Z'
 publication_types:
 - '2'
-abstract: Thieme E-Books & E-Journals
+abstract: 'Ziele/Fragestellung: In der Stadt Köln wird seit dem Jahr 2005 im Rahmen
+  des „Kölner Schulenmonitorings“ der Konsum legaler und illegaler psychotroper Substanzen
+  bei 12- bis 18-jährigen Schüler/-innen aller Schulformen erhoben. Zudem werden die
+  persönlichen Lebensumstände und die Motivationslagen für den Substanzkonsum beleuchtet.
+  Ein Fokus der Studie liegt auf der Identifizierung von Faktoren, die das Risiko
+  erhöhen, dass Kinder und Jugendliche Alkohol trinken. Zudem werden Einflussfaktoren
+  gesucht, die Kinder und Jugendliche davon abhalten Alkohol zu trinken. \n
+  
+  Methodisches Vorgehen: Für die im Rahmen dieser Erhebung durchgeführten Analysen wurden die Antworten
+  von 3105 Schüler/-innen der Klassen sechs bis zehn in den Schulformen Haupt-, Real-,
+  Gesamtschule und Gymnasium zugrunde gelegt. Zudem wurden jeweils drei Stadtteilcluster
+  für die Variablen „soziale Lage des Schulstandorts“ sowie „Wohnort der Schüler/-innen“
+  gebildet. Die Variable „Alkoholkonsum“ wurde dichotomisiert in die Kategorien „Trinken“
+  und „Nicht Trinken“. Mit Hilfe einer Zusammenhangsanalyse wurden Faktoren identifiziert,
+  die das Risiko jugendlichen Alkoholkonsums erhöhen bzw. reduzieren. \n
+  
+  Ergebnisse:
+  Das Trinkverhalten der Peer Group hatte den größten Einfluss auf den Alkoholkonsum
+  der befragten Jugendlichen. Von Bedeutung waren auch die Faktoren Geschlecht und
+  Alter: männliche Jugendliche trinken mehr als weibliche Jugendliche und mit zunehmendem
+  Alter nimmt der Alkoholkonsum zu. Die Stadtteilclusteranalyse zeigte, dass bessere
+  soziale Lage im Zusammenhang mit erhöhtem Alkoholkonsum steht. Zudem erwies sich
+  die Religionszugehörigkeit (muslimisch/nicht-muslimisch) von Einfluss auf das Trinkverhalten. \n
+  
+  Schlussfolgerung:
+  Schulische Präventionsmaßnahmen sollten geschlechtsspezifisch und an dem Alter der
+  Jugendlichen ausgerichtet sein. Darüber hinaus zeigt die Studie, dass Jugendliche
+  aus privilegierten Stadtteilen als Risikogruppe anzusehen sind.'
 publication: '*Suchttherapie*'
 doi: 10.1055/s-0029-1240298
 links:
