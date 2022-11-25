@@ -1,5 +1,5 @@
 ---
-title: Publications*
+title: Publications Axel Budde
 cms_exclude: true
 
 # View.
