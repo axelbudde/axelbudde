@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Assessment criteria for evidence based interventions aimed to reduce alcohol
-  related harm:'
+  related harm: Sandra Radosš Krnel'
 subtitle: ''
 summary: ''
 authors:
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-10T14:14:01.269666Z'
+publishDate: '2022-11-25T11:22:27.606249Z'
 publication_types:
-- '1'
+- '2'
 abstract: To reduce alcohol related harm a wide range of interventions have been developed
   and brought together including in EU-funded projects. Nevertheless public health
   policy planners lack easy access to well described interventions that are replicable
