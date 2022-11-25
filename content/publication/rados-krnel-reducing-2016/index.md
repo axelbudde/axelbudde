@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-25T11:22:27.590465Z'
+publishDate: '2022-11-25T15:09:02.137162Z'
 publication_types:
 - '2'
 abstract: 'Joint Action on Reducing Alcohol Related Harm is an initiative under the

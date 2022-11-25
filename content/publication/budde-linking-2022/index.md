@@ -80,7 +80,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-25T11:22:27.499581Z'
+publishDate: '2022-11-25T15:09:02.045155Z'
 publication_types:
 - '2'
 abstract: "Purpose The available questionnaires for quality-of-life (QoL) assessments\
