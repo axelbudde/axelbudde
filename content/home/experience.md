@@ -6,13 +6,21 @@ widget: experience
 subtitle: null
 date_format: Jan 2006
 experience:
+- title: Research Associate
+  company: University Hospital Bonn (UKB)
+  company_url: ''
+  company_logo: "ukb"
+  location: Bonn, Germany
+  date_start: "2023-02-01"
+  date_end: ''
+  description: ""
 - title: Head of Staff Unit
   company: University Hospital Bonn (UKB)
   company_url: ''
   company_logo: "ukb"
   location: Bonn, Germany
   date_start: "2020-10-01"
-  date_end: ''
+  date_end: '2022-12-31'
   description: ""
 - title: Research Associate
   company: University Hospital Bonn (UKB)
