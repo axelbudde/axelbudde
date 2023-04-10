@@ -1,7 +1,7 @@
 ---
 title: "Public awareness, school-based and early interventions to reduce alcohol related harm"
 date: 2016-01-01
-publishDate: 2023-04-10T11:08:04.237118Z
+publishDate: 2023-04-10T11:12:27.024750Z
 authors: ["Sandra Radoš Krnel", "Axel Budde", "Wim van Dalen", "Djoeke van Dale", "Kirsten Vegt", "Lidia Segura", "Jorge Palacio-Vieira", "Paula Frango", "Janja Mišič", "Teja Rozman", "Aleš Lamut"]
 publication_types: ["5"]
 abstract: ""
