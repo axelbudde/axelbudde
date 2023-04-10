@@ -1,7 +1,7 @@
 ---
 title: "Erratum to ‘Linking EORTC QLQ-C-30 and PedsQL/PEDQOL physical functioning scores in patients with osteosarcoma’ [Eur J Cancer 170 (2022) 209-235]"
 date: 2022-11-01
-publishDate: 2023-04-10T11:03:26.329001Z
+publishDate: 2023-04-10T11:08:04.239557Z
 authors: ["Axel Budde", "Katja Baust", "Leonie Weinhold", "Mark Bernstein", "Stefan Bielack", "Catharina Dhooge", "Lars Hjorth", "Katherine A. Janeway", "Meriel Jenney", "Mark D. Krailo", "Neyssa Marina", "Rajaram Nagarajan", "Sigbjørn Smeland", "Matthew R. Sydes", "Patricia De Vos", "Jeremy Whelan", "Andreas Wiener", "Gabriele Calaminus", "Matthias Schmid"]
 publication_types: ["2"]
 abstract: ""
