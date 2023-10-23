@@ -12,7 +12,7 @@ experience:
   company_logo: "ukb"
   location: Bonn, Germany
   date_start: "2023-02-01"
-  date_end: ""
+  date_end: "2023-09-30"
   description: ""
 - title: Head of Staff Unit
   company: University Hospital Bonn (UKB)
