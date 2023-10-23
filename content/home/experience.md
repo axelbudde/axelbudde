@@ -6,6 +6,7 @@ widget: experience
 subtitle: null
 date_format: Jan 2006
 experience:
+- title: External Lecturer
 - title: Research Associate
   company: University Hospital Bonn (UKB)
   company_url: ''
