@@ -9,7 +9,7 @@ experience:
 - title: External Lecturer
   company: Charlotte Fresenius University
   company_url: ''
-  company_logo: "cfh"
+  company_logo: "hs-fresenius"
   location: Düsseldorf, Germany
   date_start: "2023-10-01"
   date_end: ""
