@@ -14,8 +14,8 @@ experience:
   date_start: "2023-10-01"
   date_end: ""
   description: |2-
-              * Introduction to psychology and its history
-              * Introduction to research methods in psychology and psychotherapy
+              - Introduction to psychology and its history
+              - Introduction to research methods in psychology and psychotherapy
 - title: Research Associate
   company: University Hospital Bonn (UKB)
   company_url: ''
