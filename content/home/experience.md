@@ -8,7 +8,7 @@ date_format: Jan 2006
 experience:
 - title: External Lecturer
   company: Charlotte Fresenius Hochschule - University of Psychology
-  company_url: ''
+  company_url: 'https://www.charlotte-fresenius-uni.de/'
   company_logo: "hs-fresenius"
   location: Düsseldorf, Germany
   date_start: "2023-10-01"
