@@ -66,7 +66,7 @@ experience:
   date_start: "2006-11-01"
   date_end: "2007-07-31"
   description: ""
-  - title: Regional Sales Engineer
+- title: Regional Sales Engineer
   company: Noldus Information Technology bv
   company_url: ''
   company_logo: "noldus"
