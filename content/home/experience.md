@@ -7,7 +7,6 @@ subtitle: null
 date_format: Jan 2006
 experience:
 - title: External Lecturer
-company: Charlotte Fresenius Hochschule
 - title: Research Associate
   company: University Hospital Bonn (UKB)
   company_url: ''
