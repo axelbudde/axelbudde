@@ -6,6 +6,14 @@ widget: experience
 subtitle: null
 date_format: Jan 2006
 experience:
+- title: External Lecturer
+  company: Charlotte Fresenius University
+  company_url: ''
+  company_logo: ""
+  location: Düsseldorf, Germany
+  date_start: "2023-10-01"
+  date_end: ""
+  description: ""
 - title: Research Associate
   company: University Hospital Bonn (UKB)
   company_url: ''
