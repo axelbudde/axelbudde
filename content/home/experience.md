@@ -13,7 +13,7 @@ experience:
   location: Düsseldorf, Germany
   date_start: "2023-10-01"
   date_end: ""
-  description: ""
+  description: "Psychology"
 - title: Research Associate
   company: University Hospital Bonn (UKB)
   company_url: ''
