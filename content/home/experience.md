@@ -23,7 +23,9 @@ experience:
   location: Bonn, Germany
   date_start: "2023-02-01"
   date_end: "2023-09-30"
-  description: ""
+  description: |2-
+              - Introduction to psychology and its history
+              - Introduction to research methods in psychology and psychotherapy
 - title: Head of Staff Unit
   company: University Hospital Bonn (UKB)
   company_url: ''
