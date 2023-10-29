@@ -17,8 +17,8 @@ experience:
               - Introduction to psychology and its history
               - Introduction to research methods in psychology and psychotherapy
 - title: Research Associate
-  company: University Hospital Bonn (UKB)
-  company_url: ''
+  company: University Hospital Bonn (UKB) - Department of Palliative Medicine
+  company_url: 'https://www.palliativbonn.de/'
   company_logo: "ukb"
   location: Bonn, Germany
   date_start: "2023-02-01"
