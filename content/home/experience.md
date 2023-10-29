@@ -27,7 +27,7 @@ experience:
   date_end: "2023-09-30"
   description: Developed R Shiny app.
 - title: Head of Staff Unit
-  company: University Hospital Bonn (UKB)
+  company: University Hospital Bonn (UKB) - Institute for Virology
   company_url: ''
   company_logo: "ukb"
   location: Bonn, Germany
@@ -35,7 +35,7 @@ experience:
   date_end: '2022-12-31'
   description: ""
 - title: Research Associate
-  company: University Hospital Bonn (UKB)
+  company: University Hospital Bonn (UKB) - Clinic for Paediatric Haematology and Oncology
   company_url: ''
   company_logo: "ukb"
   location: Bonn, Germany
