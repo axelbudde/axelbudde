@@ -7,13 +7,14 @@ subtitle: null
 date_format: Jan 2006
 experience:
 - title: External Lecturer
-  company: Charlotte Fresenius University
+  company: Charlotte Fresenius Hochschule - University of Psychology
   company_url: ''
   company_logo: "hs-fresenius"
   location: Düsseldorf, Germany
   date_start: "2023-10-01"
   date_end: ""
-  description: "Psychology"
+  description: "Introduction to psychology and its history"
+  description: "Introduction to research methods in psychology and psychotherapy"
 - title: Research Associate
   company: University Hospital Bonn (UKB)
   company_url: ''
