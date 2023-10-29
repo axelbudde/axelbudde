@@ -13,8 +13,9 @@ experience:
   location: Düsseldorf, Germany
   date_start: "2023-10-01"
   date_end: ""
-  description: "Introduction to psychology and its history"
-  description: "Introduction to research methods in psychology and psychotherapy"
+  description: |2-
+              * Introduction to psychology and its history
+              * Introduction to research methods in psychology and psychotherapy
 - title: Research Associate
   company: University Hospital Bonn (UKB)
   company_url: ''
