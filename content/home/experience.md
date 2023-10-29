@@ -59,12 +59,20 @@ experience:
   date_end: "2011-02-28"
   description: ""
 - title: Regional Sales Engineer
-  company: Noldus Information Technology bv / GmbH
+  company: Noldus Information Technology GmbH
   company_url: ''
   company_logo: "noldus"
-  location: Wageningen, The Netherlands / Berlin, Germany
-  date_start: "2005-11-01"
+  location: Berlin, Germany
+  date_start: "2006-11-01"
   date_end: "2007-07-31"
+  description: ""
+  - title: Regional Sales Engineer
+  company: Noldus Information Technology bv
+  company_url: ''
+  company_logo: "noldus"
+  location: Wageningen, The Netherlands
+  date_start: "2005-11-01"
+  date_end: "2006-10-31"
   description: ""
 - title: Customer Service Representative
   company: Citicorp S.A. 
