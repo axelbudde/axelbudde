@@ -15,8 +15,8 @@ experience:
   date_end: ""
   description: |2-
     Lectures:
-              - Introduction to psychology and its history
-              - Introduction to research methods in psychology and psychotherapy
+              * Introduction to psychology and its history
+              * Introduction to research methods in psychology and psychotherapy
 - title: Research Associate
   company: University Hospital Bonn (UKB) - Department of Palliative Medicine
   company_url: 'https://www.palliativbonn.de/'
