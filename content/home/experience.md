@@ -6,14 +6,13 @@ widget: experience
 subtitle: null
 date_format: Jan 2006
 experience:
-- title: External Lecturer
 - title: Research Associate
   company: University Hospital Bonn (UKB)
   company_url: ''
   company_logo: "ukb"
   location: Bonn, Germany
   date_start: "2023-02-01"
-  date_end: "2023-09-30"
+  date_end: ""
   description: ""
 - title: Head of Staff Unit
   company: University Hospital Bonn (UKB)
