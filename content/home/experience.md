@@ -14,9 +14,11 @@ experience:
   date_start: "2023-10-01"
   date_end: ""
   description: |2-
-    Lectures:
-              * Introduction to psychology and its history
-              * Introduction to research methods in psychology and psychotherapy
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
 - title: Research Associate
   company: University Hospital Bonn (UKB) - Department of Palliative Medicine
   company_url: 'https://www.palliativbonn.de/'
