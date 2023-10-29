@@ -24,7 +24,7 @@ experience:
   date_start: "2023-02-01"
   date_end: "2023-09-30"
   description: |2-
-              Developed R Shiny app: "https://shsburden.net/shs_app/"
+              Developed R Shiny app: (https://shsburden.net/shs_app/)
 - title: Head of Staff Unit
   company: University Hospital Bonn (UKB)
   company_url: ''
