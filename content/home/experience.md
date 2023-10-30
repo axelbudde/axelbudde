@@ -28,7 +28,7 @@ experience:
   description: Developed R Shiny app for the visualization of [Serious Health Related Suffering](https://shsburden.net/shs_app/).
 - title: Head of Staff Unit
   company: University Hospital Bonn (UKB) - Institute for Virology
-  company_url: ''
+  company_url: 'https://www.ukbonn.de/virologie/'
   company_logo: "ukb"
   location: Bonn, Germany
   date_start: "2020-10-01"
