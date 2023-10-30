@@ -25,7 +25,7 @@ experience:
   location: Bonn, Germany
   date_start: "2023-02-01"
   date_end: "2023-09-30"
-  description: Developed R Shiny app: https://shsburden.net/shs_app/.
+  description: Developed R Shiny app\: https://shsburden.net/shs_app/.
 - title: Head of Staff Unit
   company: University Hospital Bonn (UKB) - Institute for Virology
   company_url: ''
