@@ -43,7 +43,8 @@ experience:
   date_end: "2020-09-30"
   description: Co-ordinated research project sponsored by [German Cancer Aid](https://www.krebshilfe.de/informieren/ueber-uns/deutsche-krebshilfe/about-us-deutsche-krebshilfegerman-cancer-aid/).
 - title: Scientific Officer
-  company: Federal Centre for Health Education (BZgA) - Addiction Prevention Unit
+  company: Federal Centre for Health Education (BZgA)   
+  Unit Prevention of Substance Abuse, Addiction Prevention
   company_url: 'https://www.bzga.de/home/bzga/'
   company_logo: "bzga"
   location: Cologne, Germany
@@ -51,7 +52,7 @@ experience:
   date_end: "2016-12-31"
   description: ""
 - title: Research Associate
-  company: Catholic University of Applied Sciences (KatHO NRW)
+  company: Catholic University of Applied Sciences NRW (KatHO NRW)
   company_url: 'https://katho-nrw.de/forschung-und-transfer/forschungsinstitute/deutsches-institut-fuer-sucht-und-praeventionsforschung-disup'
   company_logo: "katho-nrw"
   location: Cologne, Germany
