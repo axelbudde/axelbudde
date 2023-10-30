@@ -49,6 +49,7 @@ experience:
     Co-ordinated research project sponsored by [German Cancer Aid](https://www.krebshilfe.de/informieren/ueber-uns/deutsche-krebshilfe/about-us-deutsche-krebshilfegerman-cancer-aid/):
   
     * Study on the relevance of the mode of data collection (online/pen-and-paper) in surveys
+    * Creation of a metadata database based on [Samply Metadata Repository (Samply.MDR)](https://pubmed.ncbi.nlm.nih.gov/30147039/)
 - title: Scientific Officer
   company: Federal Centre for Health Education (BZgA) <br/>  
     Unit Prevention of Substance Abuse, Addiction Prevention
