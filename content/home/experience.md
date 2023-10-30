@@ -36,7 +36,7 @@ experience:
   description: Managed the local staff unit within the [Network University Medicine](https://www.netzwerk-universitaetsmedizin.de/).
 - title: Research Associate
   company: University Hospital Bonn (UKB) - Clinic for Paediatric Haematology and Oncology
-  company_url: ''
+  company_url: 'https://www.ukbonn.de/en/kinderklinik/zentrum-fuer-kinderheilkunde/abteilungen-und-schwerpunkte/paediatrische-haematologie-und-onkologie/'
   company_logo: "ukb"
   location: Bonn, Germany
   date_start: "2018-06-01"
