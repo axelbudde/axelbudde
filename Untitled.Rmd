@@ -21,7 +21,7 @@ summary(cars)
 
 ## Including Plots
 
-Federal Centre for Health Education (BZgA)   
+Federal Centre for Health Education (BZgA) <br/><br/>
 Addiction Prevention Unit
 
 
