@@ -20,7 +20,8 @@ experience:
     * Introduction to psychology and its history
     * Introduction to research methods in psychology and psychotherapy
 - title: Research Associate
-  company: University Hospital Bonn (UKB) - Department of Palliative Medicine
+  company: University Hospital Bonn (UKB) <br/>
+    Department of Palliative Medicine
   company_url: 'https://www.palliativbonn.de/'
   company_logo: "ukb"
   location: Bonn, Germany
@@ -28,7 +29,8 @@ experience:
   date_end: "2023-09-30"
   description: Developed R Shiny app for the visualization of [Serious Health Related Suffering](https://shsburden.net/shs_app/).
 - title: Head of Staff Unit
-  company: University Hospital Bonn (UKB) - Institute for Virology
+  company: University Hospital Bonn (UKB) <br/>
+    Institute for Virology
   company_url: 'https://www.ukbonn.de/virologie/'
   company_logo: "ukb"
   location: Bonn, Germany
@@ -36,7 +38,8 @@ experience:
   date_end: '2022-12-31'
   description: Managed the local staff unit within the [Network University Medicine](https://www.netzwerk-universitaetsmedizin.de/).
 - title: Research Associate
-  company: University Hospital Bonn (UKB) - Clinic for Paediatric Haematology and Oncology
+  company: University Hospital Bonn (UKB) <br/>
+    Clinic for Paediatric Haematology and Oncology
   company_url: 'https://www.ukbonn.de/en/kinderklinik/zentrum-fuer-kinderheilkunde/abteilungen-und-schwerpunkte/paediatrische-haematologie-und-onkologie/'
   company_logo: "ukb"
   location: Bonn, Germany
