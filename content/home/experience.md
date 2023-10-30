@@ -45,7 +45,10 @@ experience:
   location: Bonn, Germany
   date_start: "2018-06-01"
   date_end: "2020-09-30"
-  description: Co-ordinated research project sponsored by [German Cancer Aid](https://www.krebshilfe.de/informieren/ueber-uns/deutsche-krebshilfe/about-us-deutsche-krebshilfegerman-cancer-aid/).
+  description: |2-
+    Co-ordinated research project sponsored by [German Cancer Aid](https://www.krebshilfe.de/informieren/ueber-uns/deutsche-krebshilfe/about-us-deutsche-krebshilfegerman-cancer-aid/):
+  
+    * Study on the relevance of the mode of data collection (online/pen-and-paper) in surveys
 - title: Scientific Officer
   company: Federal Centre for Health Education (BZgA) <br/>  
     Unit Prevention of Substance Abuse, Addiction Prevention

@@ -21,8 +21,11 @@ summary(cars)
 
 ## Including Plots
 
-Federal Centre for Health Education (BZgA) <br/>
-Addiction Prevention Unit
+  description: |2-
+    Lectures:
+
+    * Introduction to psychology and its history
+    * Introduction to research methods in psychology and psychotherapy
 
 
 You can also embed plots, for example:
