@@ -44,7 +44,7 @@ experience:
   description: Co-ordinated research project sponsored by [German Cancer Aid](https://www.krebshilfe.de/informieren/ueber-uns/deutsche-krebshilfe/about-us-deutsche-krebshilfegerman-cancer-aid/).
 - title: Scientific Officer
   company: Federal Centre for Health Education (BZgA)
-  company_url: ''
+  company_url: 'https://www.bzga.de/home/bzga/'
   company_logo: "bzga"
   location: Cologne, Germany
   date_start: "2013-03-01"
