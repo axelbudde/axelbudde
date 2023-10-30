@@ -33,7 +33,7 @@ experience:
   location: Bonn, Germany
   date_start: "2020-10-01"
   date_end: '2022-12-31'
-  description: ""
+  description: Managed the local staff unit within the [Network University Medicine](https://www.netzwerk-universitaetsmedizin.de/).
 - title: Research Associate
   company: University Hospital Bonn (UKB) - Clinic for Paediatric Haematology and Oncology
   company_url: ''
