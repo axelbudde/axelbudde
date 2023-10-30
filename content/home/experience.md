@@ -56,7 +56,8 @@ experience:
   date_end: "2016-12-31"
   description: ""
 - title: Research Associate
-  company: Catholic University of Applied Sciences NRW (KatHO NRW)
+  company: Catholic University of Applied Sciences NRW (KatHO NRW) <br/>
+    German Institute for Addiction and Prevention Research
   company_url: 'https://katho-nrw.de/forschung-und-transfer/forschungsinstitute/deutsches-institut-fuer-sucht-und-praeventionsforschung-disup'
   company_logo: "katho-nrw"
   location: Cologne, Germany
