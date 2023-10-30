@@ -31,7 +31,7 @@ experience:
     Developed R Shiny app for the visualization of [Serious Health Related Suffering](https://shsburden.net/shs_app/):
     
     * Programming in R
-    * Deployment on Amazon Web Services (AWS)
+    * Cloud deployment on Amazon Web Services (AWS)
 - title: Head of Staff Unit
   company: University Hospital Bonn (UKB) <br/>
     Institute for Virology
