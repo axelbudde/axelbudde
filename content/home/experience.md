@@ -52,7 +52,7 @@ experience:
   description: ""
 - title: Research Associate
   company: Catholic University of Applied Sciences (KatHO NRW)
-  company_url: ''
+  company_url: 'https://katho-nrw.de/forschung-und-transfer/forschungsinstitute/deutsches-institut-fuer-sucht-und-praeventionsforschung-disup'
   company_logo: "katho-nrw"
   location: Cologne, Germany
   date_start: "2007-08-01"
@@ -60,7 +60,7 @@ experience:
   description: ""
 - title: Regional Sales Engineer
   company: Noldus Information Technology GmbH
-  company_url: ''
+  company_url: 'https://www.noldus.com/'
   company_logo: "noldus"
   location: Berlin, Germany
   date_start: "2006-11-01"
@@ -68,7 +68,7 @@ experience:
   description: ""
 - title: Regional Sales Engineer
   company: Noldus Information Technology bv
-  company_url: ''
+  company_url: 'https://www.noldus.com/'
   company_logo: "noldus"
   location: Wageningen, The Netherlands
   date_start: "2005-11-01"
@@ -76,7 +76,7 @@ experience:
   description: ""
 - title: Customer Service Representative
   company: Citicorp S.A. 
-  company_url: ''
+  company_url: 'https://www.citigroup.com/global'
   company_logo: "citi"
   location: Barcelona, Spain
   date_start: "2005-03-01"
@@ -84,7 +84,7 @@ experience:
   description: ""
 - title: Research Intern
   company: United Nations Office on Drugs and Crime (UNODC) 
-  company_url: ''
+  company_url: 'https://www.unodc.org/roseap/'
   company_logo: "un"
   location: Bangkok, Thailand
   date_start: "2004-08-01"
