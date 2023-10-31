@@ -43,8 +43,8 @@ experience:
   description: |2-
     Managed the team of the local staff unit within the [Network University Medicine (NUM)](https://www.netzwerk-universitaetsmedizin.de/):
     
-    * Provided administrative support to multicentre research projects with UKB involvement.
-    * Co-oordinated multicentre research projects with UKB involvement.
+    * Provided administrative and organisational support to multicentre research projects with UKB involvement.
+    * Administratively co-oordinated multicentre research projects with UKB involvement.
 - title: Research Associate
   company: University Hospital Bonn (UKB) <br/>
     Clinic for Paediatric Haematology and Oncology
