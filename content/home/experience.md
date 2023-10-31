@@ -66,7 +66,9 @@ experience:
   location: Cologne, Germany
   date_start: "2013-03-01"
   date_end: "2016-12-31"
-  description: ""
+  description: |2-
+    
+    * Collaborated with the [German Monitoring Centre for Drugs and Drug Addiction (DBDD)](https://www.dbdd.de/)
 - title: Research Associate
   company: Catholic University of Applied Sciences NRW (KatHO NRW) <br/>
     German Institute for Addiction and Prevention Research (DISuP)
