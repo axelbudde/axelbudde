@@ -69,6 +69,8 @@ experience:
   description: |2-
     
     * Collaborated with the [German Monitoring Centre for Drugs and Drug Addiction (DBDD)](https://www.dbdd.de/)
+    * Prepared the chapter "Prevention" in the DBDD report to the [European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)](https://www.emcdda.europa.eu/index_en)
+    
 - title: Research Associate
   company: Catholic University of Applied Sciences NRW (KatHO NRW) <br/>
     German Institute for Addiction and Prevention Research (DISuP)
