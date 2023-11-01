@@ -41,7 +41,7 @@ experience:
   date_start: "2020-10-01"
   date_end: '2022-12-31'
   description: |2-
-    Managed the team of the local staff unit within the [Network University Medicine (NUM)](https://www.netzwerk-universitaetsmedizin.de/):
+    Managed team of local staff unit within the [Network University Medicine (NUM)](https://www.netzwerk-universitaetsmedizin.de/):
     
     * Provided administrative and organisational support to multicentre research projects with UKB involvement.
     * Administratively co-oordinated multicentre research projects with UKB involvement.
