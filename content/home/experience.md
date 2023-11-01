@@ -56,8 +56,8 @@ experience:
   description: |2-
     Co-ordinated research project sponsored by [German Cancer Aid](https://www.krebshilfe.de/informieren/ueber-uns/deutsche-krebshilfe/about-us-deutsche-krebshilfegerman-cancer-aid/):
   
-    * Study on the relevance of the mode of data collection (online/pen-and-paper) in surveys
-    * Creation of a metadata database based on [Samply Metadata Repository (Samply.MDR)](https://pubmed.ncbi.nlm.nih.gov/30147039/)
+    * Co-ordinated study on the relevance of the mode of data collection (online/pen-and-paper) in surveys
+    * Created metadata database based on [Samply Metadata Repository (Samply.MDR)](https://pubmed.ncbi.nlm.nih.gov/30147039/)
 - title: Scientific Officer
   company: Federal Centre for Health Education (BZgA) <br/>  
     Unit Prevention of Substance Abuse, Addiction Prevention
@@ -68,7 +68,7 @@ experience:
   date_end: "2016-12-31"
   description: |2-
     
-    * Participated in the [German Monitoring Centre for Drugs and Drug Addiction (DBDD)](https://www.dbdd.de/), within the [REITOX network](https://www.emcdda.europa.eu/about/partners/reitox_en), as liaison to the [European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)](https://www.emcdda.europa.eu/index_en) in the field of prevention. <br/>
+    * Participated in the [German Monitoring Centre for Drugs and Drug Addiction (DBDD)](https://www.dbdd.de/), within the [REITOX network](https://www.emcdda.europa.eu/about/partners/reitox_en), as liaison to the [European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)](https://www.emcdda.europa.eu/index_en) in the field of drug prevention. <br/>
     *Réseau Européen d’Information sur les Drogues et les Toxicomanies
     * Acted as national focal point for the [Evaluated Practice Portal EDDRA (Exchange on Drug Demand Reduction Action)](https://www.emcdda.europa.eu/best-practice_en).
     * Prepared chapter "Prevention" in the annual DBDD report to the EMCDDA.
