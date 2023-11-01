@@ -45,6 +45,7 @@ experience:
     
     * Provided administrative and organisational support to multicentre research projects with UKB involvement.
     * Administratively co-oordinated multicentre research projects with UKB involvement.
+    + Authored and co-authored scientific publications.
 - title: Research Associate
   company: University Hospital Bonn (UKB) <br/>
     Clinic for Paediatric Haematology and Oncology
