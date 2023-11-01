@@ -70,8 +70,13 @@ experience:
     
     * Participated in the [German Monitoring Centre for Drugs and Drug Addiction (DBDD)](https://www.dbdd.de/), within the [REITOX network](https://www.emcdda.europa.eu/about/partners/reitox_en), as liaison to the [European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)](https://www.emcdda.europa.eu/index_en) in the field of prevention. <br/>
     *Réseau Européen d’Information sur les Drogues et les Toxicomanies
-    * Acted as national focal point for the [Evaluated Practice Portal EDDRA (Exchange on Drug Demand Reduction Action)](https://www.emcdda.europa.eu/best-practice_en)
+    * Acted as national focal point for the [Evaluated Practice Portal EDDRA (Exchange on Drug Demand Reduction Action)](https://www.emcdda.europa.eu/best-practice_en).
     * Prepared the chapter "Prevention" in the DBDD report to the EMCDDA.
+    * Oversaw [Dot.sys documentation system for prevention activities](https://www.dotsys-online.de).
+    * Analysed current epidemiological developments.
+    * Participated in [EU Joint Action Reducing Alcohol Related Harm (RARHA)](https://www.rarha.eu/Pages/default.aspx).
+    * Co-ordinated development of an online database for Good Practice Examples in alcohol prevention.
+    * Co-ordinated relaunch of enterprise social network [PrevNet](https://inforo.online/prevnet/).
 - title: Research Associate
   company: Catholic University of Applied Sciences NRW (KatHO NRW) <br/>
     German Institute for Addiction and Prevention Research (DISuP)
