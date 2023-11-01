@@ -28,10 +28,10 @@ experience:
   date_start: "2023-02-01"
   date_end: "2023-09-30"
   description: |2-
-    Developed R Shiny app for the visualization of [Serious Health Related Suffering](https://shsburden.net/shs_app/):
+     Launched website for the visualization of [Serious Health Related Suffering (SHS)](https://shsburden.net/shs_app/):
     
-    * Programming in R
-    * Cloud deployment on Amazon Web Services (AWS)
+    * Developed R Shiny app
+    * Deployed app in the cloud with Amazon Web Services (AWS)
 - title: Head of Staff Unit
   company: University Hospital Bonn (UKB) <br/>
     Institute for Virology
@@ -57,7 +57,7 @@ experience:
     Co-ordinated research project sponsored by [German Cancer Aid](https://www.krebshilfe.de/informieren/ueber-uns/deutsche-krebshilfe/about-us-deutsche-krebshilfegerman-cancer-aid/):
   
     * Co-ordinated study on the relevance of the mode of data collection (online/pen-and-paper) in surveys
-    * Created metadata database based on [Samply Metadata Repository (Samply.MDR)](https://pubmed.ncbi.nlm.nih.gov/30147039/)
+    * Co-ordinated creation metadata database based on [Samply Metadata Repository (Samply.MDR)](https://pubmed.ncbi.nlm.nih.gov/30147039/)
 - title: Scientific Officer
   company: Federal Centre for Health Education (BZgA) <br/>  
     Unit Prevention of Substance Abuse, Addiction Prevention
