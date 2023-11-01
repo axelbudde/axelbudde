@@ -68,8 +68,9 @@ experience:
   date_end: "2016-12-31"
   description: |2-
     
-    * Participated in the [German Monitoring Centre for Drugs and Drug Addiction (DBDD)](https://www.dbdd.de/), within the [REITOX network](https://www.emcdda.europa.eu/about/partners/reitox_en), as national focal point to the [European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)](https://www.emcdda.europa.eu/index_en) for prevention and the [Evaluated Practice Portal EDDRA (Exchange on Drug Demand Reduction Action)](https://www.emcdda.europa.eu/best-practice_en). <br/>
+    * Participated in the [German Monitoring Centre for Drugs and Drug Addiction (DBDD)](https://www.dbdd.de/), within the [REITOX network](https://www.emcdda.europa.eu/about/partners/reitox_en), as liaison to the [European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)](https://www.emcdda.europa.eu/index_en) in the field of prevention. <br/>
     *Réseau Européen d’Information sur les Drogues et les Toxicomanies
+    * Acted as national focal point for the [Evaluated Practice Portal EDDRA (Exchange on Drug Demand Reduction Action)](https://www.emcdda.europa.eu/best-practice_en)
     * Prepared the chapter "Prevention" in the DBDD report to the [European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)](https://www.emcdda.europa.eu/index_en).
 - title: Research Associate
   company: Catholic University of Applied Sciences NRW (KatHO NRW) <br/>
