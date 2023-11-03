@@ -86,7 +86,10 @@ experience:
   location: Cologne, Germany
   date_start: "2007-08-01"
   date_end: "2011-02-28"
-  description: ""
+  description: |2-
+    Co-ordinated EU project Children Affected by Parental Alcohol Problems in Europe (ChAPAPs):
+  
+    * Prepared intermediate and final reports
 - title: Regional Sales Engineer
   company: Noldus Information Technology GmbH
   company_url: 'https://www.noldus.com/'
