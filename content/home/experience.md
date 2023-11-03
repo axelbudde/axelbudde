@@ -102,7 +102,7 @@ experience:
   location: Berlin, Germany
   date_start: "2006-11-01"
   date_end: "2007-07-31"
-  description: ""
+  description: Sold software for behavioural research and gave product trainings.
 - title: Regional Sales Engineer
   company: Noldus Information Technology bv
   company_url: 'https://www.noldus.com/'
@@ -110,7 +110,7 @@ experience:
   location: Wageningen, The Netherlands
   date_start: "2005-11-01"
   date_end: "2006-10-31"
-  description: ""
+  description: Sold software for behavioural research and gave product trainings.
 - title: Customer Service Representative
   company: Citicorp S.A. 
   company_url: 'https://www.citigroup.com/global'
@@ -118,7 +118,7 @@ experience:
   location: Barcelona, Spain
   date_start: "2005-03-01"
   date_end: "2005-07-31"
-  description: ""
+  description: Provided phone service to credit card clients in Belgium in Dutch, French, German, and English.
 - title: Research Intern
   company: United Nations Office on Drugs and Crime (UNODC) 
   company_url: 'https://www.unodc.org/roseap/'
@@ -126,7 +126,10 @@ experience:
   location: Bangkok, Thailand
   date_start: "2004-08-01"
   date_end: "2004-12-31"
-  description: ""
+  description: |2-
+  
+    * Conducted research for the ACCORD Plan of Action.
+    * Administered project website.
     
 design:
   columns: '2'
