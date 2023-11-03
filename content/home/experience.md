@@ -89,7 +89,12 @@ experience:
   description: |2-
     Co-ordinated EU project Children Affected by Parental Alcohol Problems in Europe (ChAPAPs):
   
-    * Prepared intermediate and final reports
+    * Prepared intermediate and final project reports.
+    * Initiated, conducted, and published a pan-European onliny study.
+    * Lectured on psychopharmacology.
+    * Managed project contract and budget.
+    * Organised workshops, Capacity building trainings, project meetings, and an international symposium.
+    * Communicated with the European Commission.
 - title: Regional Sales Engineer
   company: Noldus Information Technology GmbH
   company_url: 'https://www.noldus.com/'
