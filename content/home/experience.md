@@ -91,7 +91,7 @@ experience:
   
     * Prepared intermediate and final project reports.
     * Initiated, conducted, and published a pan-European onliny study.
-    * Lectured on psychopharmacology.
+    * Gave seminar on psychopharmacology.
     * Managed project contract and budget.
     * Organised workshops, Capacity building trainings, project meetings, and an international symposium.
     * Communicated with the European Commission.
