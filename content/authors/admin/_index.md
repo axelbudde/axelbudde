@@ -29,7 +29,7 @@ social:
   
 education:
   courses:
-    - course: "PhD Candidate in Epidemiology (expected completion: 2024)"
+    - course: "PhD Candidate in Epidemiology (expected completion: 2026)"
       institution: University of Bonn, Germany
     - course: MSc in Psychology (With Honours)
       institution: University of Amsterdam (UvA), The Netherlands
