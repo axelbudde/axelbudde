@@ -6,130 +6,86 @@ widget: experience
 subtitle: null
 date_format: Jan 2006
 experience:
+- title: Independent Researcher & Developer
+  company: Routing Ruler
+  company_url: 'https://www.routingruler.com'
+  company_logo: ''
+  location: Germany
+  date_start: "2024-10-01"
+  date_end: ""
+  description: "Independent research & development (concurrent with parental leave). Primarily development of [Routing Ruler](https://www.routingruler.com), a commercial SaaS application for airline fare routing rule analysis (R Shiny)."
 - title: External Lecturer
-  company: Charlotte Fresenius Hochschule <br/>
-    University of Psychology
-  company_url: 'https://www.charlotte-fresenius-uni.de/'
-  company_logo: "hs-fresenius"
+  company: Charlotte Fresenius University of Psychology
+  company_url: ''
+  company_logo: ''
   location: Düsseldorf, Germany
   date_start: "2023-10-01"
-  date_end: ""
-  description: |2-
-    Lectures:
-
-    * Introduction to psychology and its history
-    * Introduction to research methods in psychology and psychotherapy
+  date_end: "2024-09-30"
+  description: "Lectures in Psychology degree programme (B.Sc.): introduction to psychology, research methods, and psychotherapy."
 - title: Research Associate
-  company: University Hospital Bonn (UKB) <br/>
-    Department of Palliative Medicine
-  company_url: 'https://www.palliativbonn.de/'
+  company: University Hospital Bonn (UKB)
+  company_url: ''
   company_logo: "ukb"
   location: Bonn, Germany
   date_start: "2023-02-01"
-  date_end: "2023-09-30"
-  description: |2-
-     Launched website for the visualization of [Serious Health Related Suffering (SHS)](https://shsburden.net/shs_app/):
-    
-    * Developed R Shiny app
-    * Deployed app in the cloud with Amazon Web Services (AWS)
+  date_end: ""
+  description: ""
 - title: Head of Staff Unit
-  company: University Hospital Bonn (UKB) <br/>
-    Institute for Virology
-  company_url: 'https://www.ukbonn.de/virologie/'
+  company: University Hospital Bonn (UKB)
+  company_url: ''
   company_logo: "ukb"
   location: Bonn, Germany
   date_start: "2020-10-01"
   date_end: '2022-12-31'
-  description: |2-
-    Managed team of local staff unit within the [Network University Medicine (NUM)](https://www.netzwerk-universitaetsmedizin.de/):
-    
-    * Provided administrative and organisational support to multicentre research projects with UKB involvement.
-    * Administratively co-oordinated multicentre research projects with UKB involvement.
-    + Authored and co-authored scientific publications.
+  description: ""
 - title: Research Associate
-  company: University Hospital Bonn (UKB) <br/>
-    Clinic for Paediatric Haematology and Oncology
-  company_url: 'https://www.ukbonn.de/en/kinderklinik/zentrum-fuer-kinderheilkunde/abteilungen-und-schwerpunkte/paediatrische-haematologie-und-onkologie/'
+  company: University Hospital Bonn (UKB)
+  company_url: ''
   company_logo: "ukb"
   location: Bonn, Germany
   date_start: "2018-06-01"
   date_end: "2020-09-30"
-  description: |2-
-    Co-ordinated research project sponsored by [German Cancer Aid](https://www.krebshilfe.de/informieren/ueber-uns/deutsche-krebshilfe/about-us-deutsche-krebshilfegerman-cancer-aid/):
-  
-    * Co-ordinated study on the relevance of the mode of data collection (online/pen-and-paper) in surveys
-    * Co-ordinated creation metadata database based on [Samply Metadata Repository (Samply.MDR)](https://pubmed.ncbi.nlm.nih.gov/30147039/)
+  description: ""
 - title: Scientific Officer
-  company: Federal Centre for Health Education (BZgA) <br/>  
-    Unit Prevention of Substance Abuse, Addiction Prevention
-  company_url: 'https://www.bzga.de/home/bzga/'
+  company: Federal Centre for Health Education (BZgA)
+  company_url: ''
   company_logo: "bzga"
   location: Cologne, Germany
   date_start: "2013-03-01"
   date_end: "2016-12-31"
-  description: |2-
-    
-    * Participated in the [German Monitoring Centre for Drugs and Drug Addiction (DBDD)](https://www.dbdd.de/), within the [REITOX network](https://www.emcdda.europa.eu/about/partners/reitox_en), as liaison to the [European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)](https://www.emcdda.europa.eu/index_en) in the field of drug prevention. <br/>
-    *Réseau Européen d’Information sur les Drogues et les Toxicomanies
-    * Acted as national focal point for the [Evaluated Practice Portal EDDRA (Exchange on Drug Demand Reduction Action)](https://www.emcdda.europa.eu/best-practice_en).
-    * Prepared chapter "Prevention" in the annual DBDD report to the EMCDDA.
-    * Oversaw [Dot.sys documentation system for prevention activities](https://www.dotsys-online.de).
-    * Analysed current epidemiological developments.
-    * Acted as work package co-lead in [EU Joint Action on Reducing Alcohol Related Harm (RARHA)](https://www.rarha.eu/Pages/default.aspx).
-    * Co-ordinated development of an online database for Good Practice Examples in alcohol prevention.
-    * Co-ordinated relaunch of enterprise social network [PrevNet](https://inforo.online/prevnet/).
+  description: ""
 - title: Research Associate
-  company: Catholic University of Applied Sciences NRW (KatHO NRW) <br/>
-    German Institute for Addiction and Prevention Research (DISuP)
-  company_url: 'https://katho-nrw.de/forschung-und-transfer/forschungsinstitute/deutsches-institut-fuer-sucht-und-praeventionsforschung-disup'
+  company: Catholic University of Applied Sciences (KatHO NRW)
+  company_url: ''
   company_logo: "katho-nrw"
   location: Cologne, Germany
   date_start: "2007-08-01"
   date_end: "2011-02-28"
-  description: |2-
-    Co-ordinated EU project Children Affected by Parental Alcohol Problems in Europe (ChAPAPs):
-  
-    * Prepared intermediate and final project reports.
-    * Initiated, conducted, and published a pan-European onliny study.
-    * Gave seminar on psychopharmacology.
-    * Managed project contract and budget.
-    * Organised workshops, Capacity building trainings, project meetings, and an international symposium.
-    * Communicated with the European Commission.
+  description: ""
 - title: Regional Sales Engineer
-  company: Noldus Information Technology GmbH
-  company_url: 'https://www.noldus.com/'
+  company: Noldus Information Technology bv / GmbH
+  company_url: ''
   company_logo: "noldus"
-  location: Berlin, Germany
-  date_start: "2006-11-01"
-  date_end: "2007-07-31"
-  description: Sold software for behavioural research and gave product trainings.
-- title: Regional Sales Engineer
-  company: Noldus Information Technology bv
-  company_url: 'https://www.noldus.com/'
-  company_logo: "noldus"
-  location: Wageningen, The Netherlands
+  location: Wageningen, The Netherlands / Berlin, Germany
   date_start: "2005-11-01"
-  date_end: "2006-10-31"
-  description: Sold software for behavioural research and gave product trainings.
+  date_end: "2007-07-31"
+  description: ""
 - title: Customer Service Representative
   company: Citicorp S.A. 
-  company_url: 'https://www.citigroup.com/global'
+  company_url: ''
   company_logo: "citi"
   location: Barcelona, Spain
   date_start: "2005-03-01"
   date_end: "2005-07-31"
-  description: Provided phone service to credit card clients in Belgium in Dutch, French, German, and English.
+  description: ""
 - title: Research Intern
   company: United Nations Office on Drugs and Crime (UNODC) 
-  company_url: 'https://www.unodc.org/roseap/'
+  company_url: ''
   company_logo: "un"
   location: Bangkok, Thailand
   date_start: "2004-08-01"
   date_end: "2004-12-31"
-  description: |2-
-  
-    * Conducted research for the ACCORD Plan of Action.
-    * Administered project website.
+  description: ""
     
 design:
   columns: '2'
